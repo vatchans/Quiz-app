@@ -1,0 +1,42 @@
+.quizcontainer{
+    border:1px solid black;
+    width:40%;
+    padding: 30px 10px 30px 70px;
+    margin: 10% 5% 15% 25%;
+    background-color: black;
+
+}
+h2{
+    width:80%;
+    height: auto;
+    background-image: linear-gradient(red, yellow);
+    text-align: center;
+    padding:10px;
+    margin:0;
+    border:1px solid grey;
+
+}
+ul{
+    margin:0%;
+    padding: 0%;
+}
+ul li{
+    list-style-type: none;
+    padding: 10px;
+    font-size:20px;
+    margin-left:0%;
+    color:white ;
+}
+.btn{
+    background-image: linear-gradient(red, yellow);
+    padding: 10px 30px;
+    margin-top:15px;
+    margin-left:30%;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 800;
+
+}
+body{
+    background-color: gray;
+}
